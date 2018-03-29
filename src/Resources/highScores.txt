@@ -1,0 +1,5 @@
+Jugador 1;1000
+Jugador 2;500
+Jugador 3;450
+Jugador 4;400
+Jugador 5;100
