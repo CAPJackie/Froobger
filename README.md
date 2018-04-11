@@ -1,6 +1,6 @@
 # Froobger(POOB Course project)
-Java game developed by [https://github.com/Nixperful](Nicolas Osorio Arias) & [https://github.com/CAPJackie](Juan David Ramirez Mendoza)
-Based on the famous Atari game [https://www.youtube.com/watch?v=u23kf-XBack](Frooger)
+Java game developed by [Nicolas Osorio Arias](https://github.com/Nixperful) & [Juan David Ramirez Mendoza](https://github.com/CAPJackie)
+Based on the famous Atari game [Frooger](https://www.youtube.com/watch?v=u23kf-XBack)
 
 ## How to run the program?
 1. First, you should install in your machine [git CLI](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
