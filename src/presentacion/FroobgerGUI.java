@@ -26,10 +26,10 @@ public class FroobgerGUI extends JFrame {
 	
 	private void prepareElementos(){
 		contentPane = getContentPane();
-		setTitle("Froobger");
-		//setExtendedState(JFrame.MAXIMIZED_BOTH);
-		setSize(1366,768);
-		setResizable(false);
+		setTitle("Froobger Game");
+		setExtendedState(JFrame.MAXIMIZED_BOTH);
+		//setSize(1366,768);
+		setResizable(true);
 	
 		setIconImage(new ImageIcon(getClass().getResource("/Resources/icono.png")).getImage());
 		contentPane.add(new Menu(), BorderLayout.CENTER);
